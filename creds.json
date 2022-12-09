@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kiksbot",
+  "private_key_id": "f7a3338d629c1049c27220b18c5dcdf3dce52efd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCye0lrK9r3Rf+Z\nYxwdW+px84TD9OBrZ+DshrM9vj1OOIoavnbdbRbWtlaQE591gwyWBm0EHU2lqymu\nAulW9jHhUMOdgJmFcuks6hTIeK9GfuCwr4wnUVL9CBUXeBY/w5eSecORiW+jzluK\nXmdNYwq93o43ZrQULVbzg6oLsduUGqXEtijHzZlGeOXl0ZE7SZT/S9JXHTI+i5jd\n8ohPGUWh7rQrcuBRvjJWxTAngOJGrxiDrqlQj7MRolaoJ9Z8dooi+lUcgAcoAbQ2\njy3Cl4KIVO9aEhyIdml8wjdJJ465aFRL6+/+C3sDqXmTT7pOuPb1JYLECReAm+We\n/tyWw1VdAgMBAAECggEAB73qy5wJobe21FW0+r4Jr5svS1u0H1yQaFoYbMlzedDg\nhrPzznuEpdgfbZz4Sf3e/iP1txu5SkIgKvTj37qKo9ofvhV9s0jufd0CfUak3bMz\ntl5K/0qbBbBDz/KMzoPCr58aAVZbkhipplkddIEjDmTYuOT60zQ7RRFVPzAeFPC3\nZxVBgjNAEKT9cE6oS0VJHfuyprkdzwU0OIgYQeoGeAPxTGkxjGDPIEeFrj2jEWW5\nyxS8jCD4fAkuWbHWnuCrDdo1b+cm7c3CZ9A03fXlcQCAVFLx95SuNO2fR4doO+ng\nRCgL+gQIsRSlM5Zxkbjswv52PfMIg3STyMbJqQxjgQKBgQDf/EHu1X0kM0kwyUa7\nB37ormnhZKFVIr8UdLsIMPR/Jw6N4bYC80/fhb3UzTp2vGlfp9DvPrpGRGk760EM\ngJFMiFqlR0i+ZqA7yCMGsyBVr5vMQbrauq8E/icXfpui22SlIIwC//l0bQvxG+P2\nISLRiw1VWUzkvyPEmCeEAfbB3QKBgQDL/gWKy9DIS0MmzMqKYjUJXLgCVa0kiAUM\nmI59H2bFzQj1639RFNMu5lAldFEnWAp+olG0UX//uT0fQHPxNJSr2a7EbC7P0TxZ\neAaOSrg5qnaaRjiRS9z6wwRg0Z8aA2v5Aq/y7izMSnHU5qtOu7ES2SIKH7fbRQeK\nVcoL2QhpgQKBgQCq0BqMBB2CTOZFIUoiea3rzo8Kh46NeYkVFYxIy+S5T1THGNmQ\nWHOSN9E0ByrNwBPwEe/BdCnkSmmie19JJIcqQVY3cyxjn6oUzSUBB/vhvKFo3Lud\n8P5mJVg0j6YrRXr0fuSnqQRZKIwR3L41RsHh4VRSwV5ll+q0E4EXJ9RBtQKBgEbY\ntUIMITm+8daC34EKNJNI0Vt2OAjs+Jv0S+BmzIG8APWv0WruiZ3LPWCUsi6w5Awx\nAaFXgNXmlrTI5LuL4GqC0rDDRcrFR2lnRxeaGbtlWYWhB7pml5u7qUSa6N/W+mPk\nLAl58LMO09P2PN6+TvRV1v2fIHKV2dWQj/hnawWBAoGABo7qhLWcsstIP6Z7+oqu\nWYJRDrV7kLZVCEadZjDss3+j/a9c/1f923PWF926qDeiZL2g3ofjcJh8ddLV4X3+\nvGI2aK3g/xgZcaJjDkeSpUQUj2jyrLHwLBFgoo7eANAOwBetVQZ6O6x/lpCgV8NP\n6xo9vp9mz28NuHo/BMvZSXA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kiksbot@kiksbot.iam.gserviceaccount.com",
+  "client_id": "109085166255790768930",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kiksbot%40kiksbot.iam.gserviceaccount.com"
+}
