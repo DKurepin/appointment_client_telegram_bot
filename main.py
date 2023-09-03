@@ -41,7 +41,7 @@ bot = KiksBiBot(
     token=config.settings["TOKEN"],
     parse_mode=types.ParseMode.HTML,
     google_table=GoogleTable("creds.json",
-                             "https://docs.google.com/spreadsheets/d/1G1G4KqXXhdy_vEu3Bjj9p1AQHQjmfSBh2wEyVP8jbaw"),
+                             "google spreadsheet URL here"),
 )
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
